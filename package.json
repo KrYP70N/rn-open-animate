@@ -1,0 +1,21 @@
+{
+  "name": "rn-open-animate",
+  "version": "0.0.1",
+  "description": "minimalist react native animation plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-animation",
+    "rn-animate",
+    "react-animate",
+    "rn-open-animate"
+  ],
+  "author": "kryp70n",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.69.0"
+  }
+}
